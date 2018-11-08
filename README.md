@@ -21,4 +21,4 @@ This operator composes the logic for this plugin. It fetches the Zendesk specifi
   :type gcs_bucket:                 string
 ```
 ## License
-MIT
+Apache 2.0
